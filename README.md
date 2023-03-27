@@ -28,7 +28,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 Como Executar o Projeto
-Para executar o projeto, basta baixar ou clonar o repositório em sua máquina e executar o arquivo bank_churn.ipynb. Este script irá carregar os dados, realizar a análise exploratória, pré-processamento dos dados, treinar um modelo de machine learning e avaliar sua performance.
+Para executar o projeto, basta baixar ou clonar o repositório em sua máquina e executar o arquivo churn.ipynb. Este script irá carregar os dados, realizar a análise exploratória, pré-processamento dos dados, treinar um modelo de machine learning e avaliar sua performance.
 
 Resultados
 Os resultados da análise serão apresentados no notebook. As métricas usadas para avaliar o modelo são Recall, Matriz de confusão.
